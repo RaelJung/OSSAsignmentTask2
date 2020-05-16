@@ -1,3 +1,3 @@
-#Assignment Task2#
-*21900658 ì •ë¼ì—˜*
-**ã…OSS**
+## Assginment Task2
+*21900658 ã Rael Jung*
+**OSS**
